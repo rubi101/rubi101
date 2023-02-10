@@ -5,19 +5,21 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rubi Kumari Mandal.</h1>
 <h3 align="center">App Dev |  Web Dev  |  Tech Enthusiast</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/rubi-kumari-mandal-3ab272214/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tejkiran kushwaha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rubi-kumari-mandal-3ab272214/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rubi Adhikari" height="30" width="40" /></a>
+  
 
 <a href="https://www.hackerrank.com/rubikumariadhik1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
+  <br>
 <a href="https://leetcode.com/rubang101/" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frubang101&logo=leetcode&logoColor=yellow"/></a>
 </p>
 </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.tejkiran-1)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.rubi101)
 
 
 <p align="center">
   <em>
-    I'm Tejkiran, a <b>Third year</b> undergraduate from <a href="https://set.jainuniversity.ac.in/"> <b>Jain University</b>, Bangalore</a>. <br>
+    I'm Rubi, a <b>Third year</b> undergraduate from <a href="https://set.jainuniversity.ac.in/"> <b>Jain University</b>, Bangalore</a>. <br>
     A budding <b> Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
