@@ -6,6 +6,7 @@
 <h3 align="center">App Dev |  Web Dev  |  Tech Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rubi-kumari-mandal-3ab272214/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rubi Adhikari" height="30" width="40" /></a>
+  <br>
 <a href="https://www.hackerrank.com/rubikumariadhik1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
   <br>
 <a href="https://leetcode.com/rubang101/" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frubang101&logo=leetcode&logoColor=yellow"/></a>
