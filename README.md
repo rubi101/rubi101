@@ -45,12 +45,12 @@
 
 <details><summary>Github stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejkiran-1&theme=dark)](https://github.com/tejkiran-1?tab=repositories)
-<a href="https://github.com/tejkiran-1" >
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubi101&theme=dark)](https://github.com/rubi101?tab=repositories)
+<a href="https://github.com/rubi101" >
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejkiran-1&count_private=true&show_icons=true&locale=en&theme=dark" alt="tejkiran-1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubi101&count_private=true&show_icons=true&locale=en&theme=dark" alt="tejkiran-1" />
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tejkiran-1&theme=dark" alt="tejkiran-1"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rubi101&theme=dark" alt="rubi101"/>
 
 </a>
 
