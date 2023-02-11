@@ -18,7 +18,7 @@
   <em>
     I'm Rubi, a <b>Third year</b> undergraduate from <a href="https://set.jainuniversity.ac.in/"> <b>Jain University</b>, Bangalore</a>. <br>
     A budding <b> Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em> 
 </p>
@@ -29,11 +29,8 @@
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit)
-![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 
@@ -41,7 +38,7 @@
  ### Editors I like to use:-
 
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/eclipse-badge-blue.svg?logo=eclipse)
+
  
   
 </details>
@@ -62,6 +59,5 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔  ***Competitive***😉 <br>
-✔ I’m currently learning **Android App Dev** , **Web Dev** & **NoSQL** <br>
-✔ Currently working on Android Game: **Flappy Bird Clone** <br>
+✔ I’m currently learning  **Web Dev** & **NoSQL** <br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br>
